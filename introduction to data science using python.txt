@@ -1,0 +1,31 @@
+supervised machine learning  : when the data has both input and output and it is given to the model then it is termed as supervised machine learning
+
+unsupervised learning : the data has only input no outputs , the alogorithms will classify them into cluster basing on some factors
+1. centriod bases algorithms
+2. Density bases algorithms
+
+input data ------>    machine learning algorithms ----------> output/patterns/insights
+
+Scikit Learn : library of python for performing machine learning tasks by building machine learningmodels very easily  yand also input manupulations
+
+
+categories of machine learning algorithms : 
+1. Classification
+2. clustering
+3. regression
+4. dimensionality reduction
+
+
+inputs are called featues and outputs are called predictions 
+
+key in machine learning : choose accurate data and the model which will provide the closeness in the outputs.
+
+UCI - it is website were we can find huge quantoty of datasets for machine leaning problems.
+
+#bunch is sklearn datatype which stores data, target , feature name , and target names
+
+in classification problems the input may be infinite but the output are finite ex: spam email classification to be either 0 spam or 1 not spam
+
+K-Fold cross validation : it tries different combinations of data to be test data and training data in each iteration adn gives output accuracy in each iteration. here K is the no. of iterations
+
+
